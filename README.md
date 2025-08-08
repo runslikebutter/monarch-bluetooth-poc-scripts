@@ -1,8 +1,8 @@
 # Monarch Bluetooth POC Scripts
 
 Related repositories:
-- [monarch-bluetooth-poc-scripts](https://github.com/runslikebutter/monarch-bluetooth-poc-scripts)
 - [bluetooth-easy-entry-ios-poc](https://github.com/runslikebutter/bluetooth-easy-entry-ios-poc)
+- [Monarch](https://github.com/runslikebutter/monarch-app/tree/MET-6931_spike)
 
 ## Overview
 
