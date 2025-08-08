@@ -106,7 +106,7 @@ sudo python3 proximity-send-monarch.py
 
 ### 1. Phone Pairing Process
 
-The pairing system uses a two-step process designed to securely associate tenant phones with the intercom.
+The pairing system uses a two-step process designed to associate tenant phones with the intercom.
 
 #### Step 1: Intercom Advertisement (`advertise-intercom.py`)
 
@@ -269,7 +269,7 @@ The system provides visual feedback by controlling the intercom's logo LED:
 **Production Alternatives**:
 1. **Face Detection**: Use camera to detect presence and attention
 2. **Touch Interface**: Tap gesture on intercom screen
-3. **No Secondary Gesture**: Auto-unlock on proximity (less secure)
+3. **No Secondary Gesture**: Auto-unlock on proximity
 
 ### 4. System Integration with Monarch
 
