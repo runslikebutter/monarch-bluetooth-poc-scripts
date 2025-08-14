@@ -333,16 +333,6 @@ BROADCAST_HZ = 5        # WebSocket update frequency
 - **Longer windows** (5-6 sec): More stable but slower to detect departures
 - **More packets required** (5-6): Reduces false positives but needs stronger signal
 
-#### Hardware-Specific Calibration
-
-RSSI values vary significantly by:
-- **Hardware antenna design**
-- **Phone model and orientation** 
-- **Environmental interference**
-- **Physical obstacles**
-
-Each deployment requires empirical testing to determine optimal thresholds.
-
 ## Final Step
 
 Install the appropriate branch of Monarch to complete the setup.
